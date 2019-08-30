@@ -12,7 +12,7 @@ resource_types:
 - name: fly
   type: docker-image
   source:
-    repository: troykinsella/concourse-fly-resource
+    repository: teamleader/concourse-fly-resource
     tag: latest
 ```
 
